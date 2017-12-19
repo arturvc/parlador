@@ -1,0 +1,51 @@
+Brazilian Portuguese
+Portuguese Female
+Afrikaans Male
+Albanian Male
+Arabic Male
+Armenian Male
+Australian Female
+Bosnian Male
+Catalan Male
+Chinese Female
+Croatian Male
+Czech Female
+Danish Female
+Deutsch Female
+Dutch Female
+Esperanto Male
+Finnish Female
+French Female
+Greek Female
+Hatian Creole Female
+Hindi Female
+Hungarian Female
+Icelandic Male
+Indonesian Female
+Italian Female
+Japanese Female
+Korean Female
+Latin Female
+Latvian Male
+Macedonian Male
+Moldavian Male
+Montenegrin Male
+Norwegian Female
+Polish Female
+Romanian Male
+Russian Female
+Serbian Male
+Serbo-Croatian Male
+Slovak Female
+Spanish Female
+Spanish Latin American Female
+Swahili Male
+Swedish Female
+Tamil Male
+Thai Female
+Turkish Female
+UK English Female
+UK English Male
+US English Female
+Vietnamese Male
+Welsh Male
